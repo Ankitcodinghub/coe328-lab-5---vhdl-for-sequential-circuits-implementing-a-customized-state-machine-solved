@@ -1,0 +1,1 @@
+# coe328-lab-5---vhdl-for-sequential-circuits-implementing-a-customized-state-machine-solved
